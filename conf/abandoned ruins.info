@@ -1,0 +1,16 @@
+[main]
+title=Abandoned Ruins
+image=skull.jpg
+
+[resources]
+People=0
+Silver=0
+
+
+[text]
+Description=Ruins from a bygone era with the highest parts of towers protruding up from the sea. The place is said to be haunted by its old inhabitants.
+Location=In the middle of the western sea, with nothing bothering it but waves. Slowly grinding the old city to sand.
+
+[buttons]
+
+random_entry=1/4,1/6,

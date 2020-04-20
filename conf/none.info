@@ -1,0 +1,16 @@
+[main]
+title=None
+image=skull.jpg
+
+[resources]
+People=10
+Silver=10
+
+
+[text]
+Description=No object selected. Click something on the map to show its infobox. Here you will see important information about the object youve selected.
+Other=A lot of information can appear under one infobox.
+
+[buttons]
+
+random_entry=1/4,1/6,
